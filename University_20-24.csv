@@ -1,0 +1,555 @@
+KUNTA_NIMI,IKARYHMA,ETUUS,OPPILAITOSASTE,SAAJA_LKM,MAKSETTU_EUR
+Akaa,20-24,Opintoraha,Yliopistot,112,59964
+Akaa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,112,64584
+Akaa,20-24,Yhteensä,Yliopistot,156,68289
+Alajärvi,20-24,Opintoraha,Yliopistot,78,53808
+Alajärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,78,53808
+Alajärvi,20-24,Yhteensä,Yliopistot,134,59872
+Alavus,20-24,Opintoraha,Yliopistot,378,222726
+Alavus,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,378,225666
+Alavus,20-24,Yhteensä,Yliopistot,390,225666
+Askola,20-24,Yhteensä,Yliopistot,8,1299
+Aura,20-24,Yhteensä,Yliopistot,24,4275
+Espoo,20-24,Asumislisä,Yliopistot,2879,1037091
+Espoo,20-24,Opintoraha,Yliopistot,69340,35412877
+Espoo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,69340,36449968
+Espoo,20-24,Yhteensä,Yliopistot,72850,36449968
+Eura,20-24,Opintoraha,Yliopistot,132,77638
+Eura,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,132,86038
+Eura,20-24,Yhteensä,Yliopistot,156,97962
+Eurajoki,20-24,Opintoraha,Yliopistot,190,109408
+Eurajoki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,190,113188
+Eurajoki,20-24,Yhteensä,Yliopistot,194,113188
+Forssa,20-24,Opintoraha,Yliopistot,116,51829
+Forssa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,116,54769
+Forssa,20-24,Yhteensä,Yliopistot,182,62512
+Haapajärvi,20-24,Opintoraha,Yliopistot,56,38358
+Haapajärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,56,38358
+Haapajärvi,20-24,Yhteensä,Yliopistot,56,38358
+Haapavesi,20-24,Opintoraha,Yliopistot,8,14483
+Haapavesi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,16163
+Haapavesi,20-24,Yhteensä,Yliopistot,8,16163
+Hamina,20-24,Opintoraha,Yliopistot,84,46275
+Hamina,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,84,53835
+Hamina,20-24,Yhteensä,Yliopistot,120,60540
+Hankasalmi,20-24,Opintoraha,Yliopistot,94,67721
+Hankasalmi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,94,67721
+Hankasalmi,20-24,Yhteensä,Yliopistot,102,67721
+Hanko,20-24,Opintoraha,Yliopistot,16,4819
+Hanko,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,16,4819
+Hanko,20-24,Yhteensä,Yliopistot,30,6118
+Harjavalta,20-24,Opintoraha,Yliopistot,8,15645
+Harjavalta,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,15645
+Harjavalta,20-24,Yhteensä,Yliopistot,56,33149
+Hattula,20-24,Opintoraha,Yliopistot,100,50988
+Hattula,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,100,51828
+Hattula,20-24,Yhteensä,Yliopistot,172,55140
+Hausjärvi,20-24,Opintoraha,Yliopistot,24,6705
+Hausjärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,6705
+Hausjärvi,20-24,Yhteensä,Yliopistot,52,11734
+Heinola,20-24,Yhteensä,Yliopistot,66,18161
+Helsinki,20-24,Asumislisä,Yliopistot,7728,2836487
+Helsinki,20-24,Opintoraha,Yliopistot,176188,92414679
+Helsinki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,176188,95251166
+Helsinki,20-24,Yhteensä,Yliopistot,185909,95251166
+Hollola,20-24,Opintoraha,Yliopistot,220,98352
+Hollola,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,220,101712
+Hollola,20-24,Yhteensä,Yliopistot,266,101712
+Huittinen,20-24,Opintoraha,Yliopistot,148,78694
+Huittinen,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,148,81634
+Huittinen,20-24,Yhteensä,Yliopistot,156,81634
+Humppila,20-24,Yhteensä,Yliopistot,8,1676
+Hyvinkää,20-24,Opintoraha,Yliopistot,717,313401
+Hyvinkää,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,717,326421
+Hyvinkää,20-24,Yhteensä,Yliopistot,853,328517
+Hämeenkyrö,20-24,Opintoraha,Yliopistot,50,37577
+Hämeenkyrö,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,50,38417
+Hämeenkyrö,20-24,Yhteensä,Yliopistot,84,43166
+Hämeenlinna,20-24,Asumislisä,Yliopistot,42,23730
+Hämeenlinna,20-24,Opintoraha,Yliopistot,676,331951
+Hämeenlinna,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,682,365092
+Hämeenlinna,20-24,Yhteensä,Yliopistot,861,366209
+Ii,20-24,Opintoraha,Yliopistot,164,70154
+Ii,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,164,76034
+Ii,20-24,Yhteensä,Yliopistot,204,78074
+Iisalmi,20-24,Opintoraha,Yliopistot,182,99445
+Iisalmi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,182,110785
+Iisalmi,20-24,Yhteensä,Yliopistot,216,111889
+Ilmajoki,20-24,Opintoraha,Yliopistot,230,139353
+Ilmajoki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,230,141873
+Ilmajoki,20-24,Yhteensä,Yliopistot,236,141873
+Imatra,20-24,Opintoraha,Yliopistot,122,49714
+Imatra,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,122,49714
+Imatra,20-24,Yhteensä,Yliopistot,186,51013
+Inari,20-24,Opintoraha,Yliopistot,116,73070
+Inari,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,116,73490
+Inari,20-24,Yhteensä,Yliopistot,160,81733
+Inkoo,20-24,Opintoraha,Yliopistot,96,50731
+Inkoo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,96,50731
+Inkoo,20-24,Yhteensä,Yliopistot,110,50731
+Isokyrö,20-24,Opintoraha,Yliopistot,238,134129
+Isokyrö,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,238,134969
+Isokyrö,20-24,Yhteensä,Yliopistot,248,134969
+Janakkala,20-24,Opintoraha,Yliopistot,82,46051
+Janakkala,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,82,49411
+Janakkala,20-24,Yhteensä,Yliopistot,88,49411
+Joensuu,20-24,Asumislisä,Yliopistot,550,217560
+Joensuu,20-24,Opintoraha,Yliopistot,39609,21805065
+Joensuu,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,39611,22029345
+Joensuu,20-24,Yhteensä,Yliopistot,40738,22029345
+Jokioinen,20-24,Opintoraha,Yliopistot,24,24869
+Jokioinen,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,24869
+Jokioinen,20-24,Yhteensä,Yliopistot,72,33156
+Jyväskylä,20-24,Asumislisä,Yliopistot,2178,801481
+Jyväskylä,20-24,Opintoraha,Yliopistot,64720,35752898
+Jyväskylä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,64720,36554379
+Jyväskylä,20-24,Yhteensä,Yliopistot,67478,36554379
+Jämsä,20-24,Opintoraha,Yliopistot,192,98863
+Jämsä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,192,106003
+Jämsä,20-24,Yhteensä,Yliopistot,204,106003
+Järvenpää,20-24,Asumislisä,Yliopistot,68,20580
+Järvenpää,20-24,Opintoraha,Yliopistot,1051,496991
+Järvenpää,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1051,520931
+Järvenpää,20-24,Yhteensä,Yliopistot,1196,520931
+Kaarina,20-24,Asumislisä,Yliopistot,8,1680
+Kaarina,20-24,Opintoraha,Yliopistot,1000,368587
+Kaarina,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1000,382447
+Kaarina,20-24,Yhteensä,Yliopistot,1110,383747
+Kajaani,20-24,Opintoraha,Yliopistot,144,68688
+Kajaani,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,144,72048
+Kajaani,20-24,Yhteensä,Yliopistot,286,78376
+Kalajoki,20-24,Opintoraha,Yliopistot,84,44164
+Kalajoki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,84,50044
+Kalajoki,20-24,Yhteensä,Yliopistot,88,50044
+Kangasala,20-24,Asumislisä,Yliopistot,8,6300
+Kangasala,20-24,Opintoraha,Yliopistot,880,410108
+Kangasala,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,880,429428
+Kangasala,20-24,Yhteensä,Yliopistot,1026,432026
+Kankaanpää,20-24,Opintoraha,Yliopistot,24,13113
+Kankaanpää,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,13533
+Kankaanpää,20-24,Yhteensä,Yliopistot,110,21222
+Kauhajoki,20-24,Opintoraha,Yliopistot,32,26262
+Kauhajoki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,32,26262
+Kauhajoki,20-24,Yhteensä,Yliopistot,40,27938
+Kauhava,20-24,Opintoraha,Yliopistot,208,121070
+Kauhava,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,208,127370
+Kauhava,20-24,Yhteensä,Yliopistot,304,135751
+Kauniainen,20-24,Asumislisä,Yliopistot,124,44940
+Kauniainen,20-24,Opintoraha,Yliopistot,1152,464661
+Kauniainen,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1152,513801
+Kauniainen,20-24,Yhteensä,Yliopistot,1256,513801
+Kemi,20-24,Opintoraha,Yliopistot,14,27125
+Kemi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,14,30275
+Kemi,20-24,Yhteensä,Yliopistot,14,30275
+Keminmaa,20-24,Yhteensä,Yliopistot,9,6594
+Kemiönsaari,20-24,Opintoraha,Yliopistot,114,65598
+Kemiönsaari,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,114,65598
+Kemiönsaari,20-24,Yhteensä,Yliopistot,114,65598
+Kempele,20-24,Asumislisä,Yliopistot,8,7980
+Kempele,20-24,Opintoraha,Yliopistot,664,343092
+Kempele,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,664,361992
+Kempele,20-24,Yhteensä,Yliopistot,784,361992
+Kerava,20-24,Asumislisä,Yliopistot,8,7560
+Kerava,20-24,Opintoraha,Yliopistot,910,413423
+Kerava,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,910,429383
+Kerava,20-24,Yhteensä,Yliopistot,1074,430407
+Keuruu,20-24,Opintoraha,Yliopistot,32,9304
+Keuruu,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,32,10144
+Keuruu,20-24,Yhteensä,Yliopistot,32,10144
+Kirkkonummi,20-24,Asumislisä,Yliopistot,94,34440
+Kirkkonummi,20-24,Opintoraha,Yliopistot,1338,560536
+Kirkkonummi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1338,601696
+Kirkkonummi,20-24,Yhteensä,Yliopistot,1490,601696
+Kittilä,20-24,Opintoraha,Yliopistot,104,66821
+Kittilä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,104,69341
+Kittilä,20-24,Yhteensä,Yliopistot,128,69341
+Kiuruvesi,20-24,Yhteensä,Yliopistot,8,1118
+Kokemäki,20-24,Opintoraha,Yliopistot,8,18251
+Kokemäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,20351
+Kokemäki,20-24,Yhteensä,Yliopistot,8,20351
+Kokkola,20-24,Opintoraha,Yliopistot,854,467774
+Kokkola,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,854,479114
+Kokkola,20-24,Yhteensä,Yliopistot,991,479114
+Kolari,20-24,Opintoraha,Yliopistot,110,75433
+Kolari,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,110,75433
+Kolari,20-24,Yhteensä,Yliopistot,120,75433
+Kontiolahti,20-24,Opintoraha,Yliopistot,303,133920
+Kontiolahti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,303,142740
+Kontiolahti,20-24,Yhteensä,Yliopistot,375,144411
+Korsnäs,20-24,Opintoraha,Yliopistot,24,24049
+Korsnäs,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,25729
+Korsnäs,20-24,Yhteensä,Yliopistot,24,25729
+Kotka,20-24,Opintoraha,Yliopistot,318,145154
+Kotka,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,318,148934
+Kotka,20-24,Yhteensä,Yliopistot,366,148934
+Kouvola,20-24,Opintoraha,Yliopistot,572,252098
+Kouvola,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,572,261968
+Kouvola,20-24,Yhteensä,Yliopistot,832,265057
+Kristiinankaupunki,20-24,Opintoraha,Yliopistot,242,140153
+Kristiinankaupunki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,242,141413
+Kristiinankaupunki,20-24,Yhteensä,Yliopistot,272,144766
+Kruunupyy,20-24,Opintoraha,Yliopistot,320,175332
+Kruunupyy,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,320,184152
+Kruunupyy,20-24,Yhteensä,Yliopistot,358,186249
+Kuhmo,20-24,Yhteensä,Yliopistot,96,28497
+Kuopio,20-24,Asumislisä,Yliopistot,318,125160
+Kuopio,20-24,Opintoraha,Yliopistot,33415,18420942
+Kuopio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,33415,18550302
+Kuopio,20-24,Yhteensä,Yliopistot,34845,18550302
+Kurikka,20-24,Opintoraha,Yliopistot,310,179288
+Kurikka,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,310,190628
+Kurikka,20-24,Yhteensä,Yliopistot,324,190628
+Kuusamo,20-24,Yhteensä,Yliopistot,64,17880
+Kärkölä,20-24,Yhteensä,Yliopistot,8,5457
+Kärsämäki,20-24,Opintoraha,Yliopistot,16,4470
+Kärsämäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,16,4470
+Kärsämäki,20-24,Yhteensä,Yliopistot,16,4470
+Lahti,20-24,Asumislisä,Yliopistot,118,41580
+Lahti,20-24,Opintoraha,Yliopistot,2035,984533
+Lahti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,2035,1042913
+Lahti,20-24,Yhteensä,Yliopistot,2317,1042913
+Laihia,20-24,Opintoraha,Yliopistot,24,18174
+Laihia,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,19014
+Laihia,20-24,Yhteensä,Yliopistot,42,22366
+Laitila,20-24,Opintoraha,Yliopistot,38,10616
+Laitila,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,38,11036
+Laitila,20-24,Yhteensä,Yliopistot,54,14809
+Lapinjärvi,20-24,Opintoraha,Yliopistot,64,36878
+Lapinjärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,64,36878
+Lapinjärvi,20-24,Yhteensä,Yliopistot,64,36878
+Lapinlahti,20-24,Opintoraha,Yliopistot,18,5029
+Lapinlahti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,18,5029
+Lapinlahti,20-24,Yhteensä,Yliopistot,38,8663
+Lappajärvi,20-24,Opintoraha,Yliopistot,32,26820
+Lappajärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,32,26820
+Lappajärvi,20-24,Yhteensä,Yliopistot,32,26820
+Lappeenranta,20-24,Asumislisä,Yliopistot,504,195486
+Lappeenranta,20-24,Opintoraha,Yliopistot,27231,14935069
+Lappeenranta,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,27231,15133402
+Lappeenranta,20-24,Yhteensä,Yliopistot,28345,15133402
+Lapua,20-24,Opintoraha,Yliopistot,264,135932
+Lapua,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,264,139292
+Lapua,20-24,Yhteensä,Yliopistot,278,139292
+Laukaa,20-24,Opintoraha,Yliopistot,48,17643
+Laukaa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,48,22683
+Laukaa,20-24,Yhteensä,Yliopistot,118,38964
+Lemi,20-24,Opintoraha,Yliopistot,10,6314
+Lemi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,10,6314
+Lemi,20-24,Yhteensä,Yliopistot,54,9539
+Lempäälä,20-24,Opintoraha,Yliopistot,598,272687
+Lempäälä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,598,280247
+Lempäälä,20-24,Yhteensä,Yliopistot,658,283412
+Leppävirta,20-24,Yhteensä,Yliopistot,32,14137
+Lestijärvi,20-24,Opintoraha,Yliopistot,50,13969
+Lestijärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,50,13969
+Lestijärvi,20-24,Yhteensä,Yliopistot,50,13969
+Lieksa,20-24,Yhteensä,Yliopistot,8,1676
+Lieto,20-24,Opintoraha,Yliopistot,606,204741
+Lieto,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,606,209361
+Lieto,20-24,Yhteensä,Yliopistot,674,209361
+Liminka,20-24,Opintoraha,Yliopistot,212,85796
+Liminka,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,212,89996
+Liminka,20-24,Yhteensä,Yliopistot,232,89996
+Liperi,20-24,Opintoraha,Yliopistot,176,72907
+Liperi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,176,75847
+Liperi,20-24,Yhteensä,Yliopistot,250,75847
+Lohja,20-24,Asumislisä,Yliopistot,8,7560
+Lohja,20-24,Opintoraha,Yliopistot,396,171511
+Lohja,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,396,191251
+Lohja,20-24,Yhteensä,Yliopistot,490,191251
+Loimaa,20-24,Opintoraha,Yliopistot,212,112241
+Loimaa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,212,119381
+Loimaa,20-24,Yhteensä,Yliopistot,242,119381
+Loppi,20-24,Opintoraha,Yliopistot,76,38554
+Loppi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,76,39814
+Loppi,20-24,Yhteensä,Yliopistot,86,39814
+Loviisa,20-24,Opintoraha,Yliopistot,108,69039
+Loviisa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,108,74919
+Loviisa,20-24,Yhteensä,Yliopistot,170,82044
+Luoto,20-24,Opintoraha,Yliopistot,230,126183
+Luoto,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,230,126183
+Luoto,20-24,Yhteensä,Yliopistot,248,128279
+Luumäki,20-24,Opintoraha,Yliopistot,38,9108
+Luumäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,38,9108
+Luumäki,20-24,Yhteensä,Yliopistot,38,9108
+Maalahti,20-24,Opintoraha,Yliopistot,244,134210
+Maalahti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,244,135050
+Maalahti,20-24,Yhteensä,Yliopistot,270,135050
+Masku,20-24,Opintoraha,Yliopistot,143,61804
+Masku,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,143,66844
+Masku,20-24,Yhteensä,Yliopistot,187,71359
+Mikkeli,20-24,Asumislisä,Yliopistot,8,6720
+Mikkeli,20-24,Opintoraha,Yliopistot,1844,932692
+Mikkeli,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1844,958312
+Mikkeli,20-24,Yhteensä,Yliopistot,1955,958312
+Muhos,20-24,Opintoraha,Yliopistot,100,52308
+Muhos,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,100,54408
+Muhos,20-24,Yhteensä,Yliopistot,126,54408
+Mustasaari,20-24,Asumislisä,Yliopistot,10,8008
+Mustasaari,20-24,Opintoraha,Yliopistot,974,524232
+Mustasaari,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,974,546520
+Mustasaari,20-24,Yhteensä,Yliopistot,1018,546520
+Muurame,20-24,Opintoraha,Yliopistot,132,70553
+Muurame,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,132,70553
+Muurame,20-24,Yhteensä,Yliopistot,156,72037
+Mynämäki,20-24,Opintoraha,Yliopistot,70,40958
+Mynämäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,70,44318
+Mynämäki,20-24,Yhteensä,Yliopistot,72,44318
+Mäntsälä,20-24,Opintoraha,Yliopistot,296,127534
+Mäntsälä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,296,141814
+Mäntsälä,20-24,Yhteensä,Yliopistot,336,141814
+Mänttä-Vilppula,20-24,Opintoraha,Yliopistot,38,49888
+Mänttä-Vilppula,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,38,52408
+Mänttä-Vilppula,20-24,Yhteensä,Yliopistot,88,62277
+Mäntyharju,20-24,Opintoraha,Yliopistot,108,77091
+Mäntyharju,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,108,77511
+Mäntyharju,20-24,Yhteensä,Yliopistot,114,77511
+Naantali,20-24,Opintoraha,Yliopistot,372,167308
+Naantali,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,372,180748
+Naantali,20-24,Yhteensä,Yliopistot,444,180748
+Nivala,20-24,Yhteensä,Yliopistot,16,2235
+Nokia,20-24,Opintoraha,Yliopistot,916,433962
+Nokia,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,916,448242
+Nokia,20-24,Yhteensä,Yliopistot,984,448242
+Nurmijärvi,20-24,Asumislisä,Yliopistot,26,9660
+Nurmijärvi,20-24,Opintoraha,Yliopistot,578,246148
+Nurmijärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,578,262948
+Nurmijärvi,20-24,Yhteensä,Yliopistot,642,262948
+Närpiö,20-24,Asumislisä,Yliopistot,8,7560
+Närpiö,20-24,Opintoraha,Yliopistot,538,295606
+Närpiö,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,538,306526
+Närpiö,20-24,Yhteensä,Yliopistot,628,313231
+Orimattila,20-24,Yhteensä,Yliopistot,32,15005
+Orivesi,20-24,Opintoraha,Yliopistot,150,68733
+Orivesi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,150,76713
+Orivesi,20-24,Yhteensä,Yliopistot,188,76713
+Oulainen,20-24,Opintoraha,Yliopistot,8,1858
+Oulainen,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,1858
+Oulainen,20-24,Yhteensä,Yliopistot,18,6762
+Oulu,20-24,Asumislisä,Yliopistot,1242,443517
+Oulu,20-24,Opintoraha,Yliopistot,81114,43950714
+Oulu,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,81114,44395072
+Oulu,20-24,Yhteensä,Yliopistot,84167,44395072
+Paimio,20-24,Opintoraha,Yliopistot,86,44201
+Paimio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,86,44201
+Paimio,20-24,Yhteensä,Yliopistot,140,49377
+Parainen,20-24,Opintoraha,Yliopistot,476,268479
+Parainen,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,476,274779
+Parainen,20-24,Yhteensä,Yliopistot,532,274779
+Pedersören kunta,20-24,Opintoraha,Yliopistot,510,277541
+Pedersören kunta,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,510,286361
+Pedersören kunta,20-24,Yhteensä,Yliopistot,548,286361
+Pello,20-24,Opintoraha,Yliopistot,54,28265
+Pello,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,54,30785
+Pello,20-24,Yhteensä,Yliopistot,80,34632
+Pieksämäki,20-24,Opintoraha,Yliopistot,80,43853
+Pieksämäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,80,48893
+Pieksämäki,20-24,Yhteensä,Yliopistot,118,48893
+Pietarsaari,20-24,Asumislisä,Yliopistot,8,8820
+Pietarsaari,20-24,Opintoraha,Yliopistot,515,267959
+Pietarsaari,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,515,288119
+Pietarsaari,20-24,Yhteensä,Yliopistot,543,288119
+Pirkkala,20-24,Opintoraha,Yliopistot,808,360978
+Pirkkala,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,808,380298
+Pirkkala,20-24,Yhteensä,Yliopistot,896,381835
+Polvijärvi,20-24,Opintoraha,Yliopistot,32,8940
+Polvijärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,32,10620
+Polvijärvi,20-24,Yhteensä,Yliopistot,32,10620
+Pori,20-24,Asumislisä,Yliopistot,34,13860
+Pori,20-24,Opintoraha,Yliopistot,3230,1712339
+Pori,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,3230,1735859
+Pori,20-24,Yhteensä,Yliopistot,3462,1735859
+Porvoo,20-24,Asumislisä,Yliopistot,30,12600
+Porvoo,20-24,Opintoraha,Yliopistot,802,384402
+Porvoo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,802,399312
+Porvoo,20-24,Yhteensä,Yliopistot,934,402106
+Puumala,20-24,Opintoraha,Yliopistot,18,5029
+Puumala,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,18,5029
+Puumala,20-24,Yhteensä,Yliopistot,18,5029
+Pyhäntä,20-24,Opintoraha,Yliopistot,8,2235
+Pyhäntä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,2235
+Pyhäntä,20-24,Yhteensä,Yliopistot,8,2235
+Pälkäne,20-24,Opintoraha,Yliopistot,142,77821
+Pälkäne,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,142,81181
+Pälkäne,20-24,Yhteensä,Yliopistot,146,81181
+Pöytyä,20-24,Opintoraha,Yliopistot,84,48847
+Pöytyä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,84,55567
+Pöytyä,20-24,Yhteensä,Yliopistot,164,69134
+Raahe,20-24,Opintoraha,Yliopistot,108,50441
+Raahe,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,108,51281
+Raahe,20-24,Yhteensä,Yliopistot,132,52863
+Raasepori,20-24,Opintoraha,Yliopistot,501,249837
+Raasepori,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,501,263697
+Raasepori,20-24,Yhteensä,Yliopistot,562,263697
+Raisio,20-24,Opintoraha,Yliopistot,597,244061
+Raisio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,597,262541
+Raisio,20-24,Yhteensä,Yliopistot,653,262541
+Ranua,20-24,Opintoraha,Yliopistot,8,2017
+Ranua,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,2017
+Ranua,20-24,Yhteensä,Yliopistot,8,2017
+Rauma,20-24,Opintoraha,Yliopistot,4558,2526076
+Rauma,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,4558,2533216
+Rauma,20-24,Yhteensä,Yliopistot,4704,2533216
+Reisjärvi,20-24,Opintoraha,Yliopistot,116,69357
+Reisjärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,116,75237
+Reisjärvi,20-24,Yhteensä,Yliopistot,134,76913
+Riihimäki,20-24,Opintoraha,Yliopistot,246,135728
+Riihimäki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,246,141608
+Riihimäki,20-24,Yhteensä,Yliopistot,316,146637
+Rovaniemi,20-24,Asumislisä,Yliopistot,234,98070
+Rovaniemi,20-24,Opintoraha,Yliopistot,15610,8750096
+Rovaniemi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,15610,8855306
+Rovaniemi,20-24,Yhteensä,Yliopistot,16230,8855306
+Ruovesi,20-24,Opintoraha,Yliopistot,8,11916
+Ruovesi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,15696
+Ruovesi,20-24,Yhteensä,Yliopistot,40,20027
+Rusko,20-24,Opintoraha,Yliopistot,52,17299
+Rusko,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,52,19399
+Rusko,20-24,Yhteensä,Yliopistot,144,26876
+Saarijärvi,20-24,Opintoraha,Yliopistot,56,26277
+Saarijärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,56,26277
+Saarijärvi,20-24,Yhteensä,Yliopistot,58,26277
+Salo,20-24,Asumislisä,Yliopistot,8,7560
+Salo,20-24,Opintoraha,Yliopistot,527,273730
+Salo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,527,285070
+Salo,20-24,Yhteensä,Yliopistot,659,286928
+Sastamala,20-24,Opintoraha,Yliopistot,218,86534
+Sastamala,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,218,91994
+Sastamala,20-24,Yhteensä,Yliopistot,294,107706
+Sauvo,20-24,Opintoraha,Yliopistot,8,1858
+Sauvo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,1858
+Sauvo,20-24,Yhteensä,Yliopistot,8,1858
+Savitaipale,20-24,Opintoraha,Yliopistot,42,10498
+Savitaipale,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,42,11758
+Savitaipale,20-24,Yhteensä,Yliopistot,42,11758
+Savonlinna,20-24,Opintoraha,Yliopistot,126,61553
+Savonlinna,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,126,64493
+Savonlinna,20-24,Yhteensä,Yliopistot,219,73017
+Seinäjoki,20-24,Asumislisä,Yliopistot,8,7140
+Seinäjoki,20-24,Opintoraha,Yliopistot,944,471828
+Seinäjoki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,944,493248
+Seinäjoki,20-24,Yhteensä,Yliopistot,1115,494786
+Sievi,20-24,Opintoraha,Yliopistot,8,2235
+Sievi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,2235
+Sievi,20-24,Yhteensä,Yliopistot,16,16763
+Siilinjärvi,20-24,Opintoraha,Yliopistot,216,97007
+Siilinjärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,216,97427
+Siilinjärvi,20-24,Yhteensä,Yliopistot,290,97972
+Simo,20-24,Opintoraha,Yliopistot,8,2235
+Simo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,8,2235
+Simo,20-24,Yhteensä,Yliopistot,8,2235
+Sipoo,20-24,Asumislisä,Yliopistot,52,19530
+Sipoo,20-24,Opintoraha,Yliopistot,876,381341
+Sipoo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,876,408851
+Sipoo,20-24,Yhteensä,Yliopistot,1000,411777
+Siuntio,20-24,Opintoraha,Yliopistot,104,47676
+Siuntio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,104,53776
+Siuntio,20-24,Yhteensä,Yliopistot,154,71388
+Sodankylä,20-24,Opintoraha,Yliopistot,100,56318
+Sodankylä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,100,56318
+Sodankylä,20-24,Yhteensä,Yliopistot,126,65091
+Soini,20-24,Opintoraha,Yliopistot,24,21523
+Soini,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,21523
+Soini,20-24,Yhteensä,Yliopistot,64,29637
+Somero,20-24,Opintoraha,Yliopistot,88,41552
+Somero,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,88,41552
+Somero,20-24,Yhteensä,Yliopistot,90,41552
+Sotkamo,20-24,Opintoraha,Yliopistot,88,44613
+Sotkamo,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,88,46293
+Sotkamo,20-24,Yhteensä,Yliopistot,122,46293
+Sulkava,20-24,Opintoraha,Yliopistot,16,16316
+Sulkava,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,16,16316
+Sulkava,20-24,Yhteensä,Yliopistot,16,16316
+Suomussalmi,20-24,Opintoraha,Yliopistot,70,43025
+Suomussalmi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,70,43025
+Suomussalmi,20-24,Yhteensä,Yliopistot,86,43025
+Sysmä,20-24,Opintoraha,Yliopistot,24,20152
+Sysmä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,24,20152
+Sysmä,20-24,Yhteensä,Yliopistot,48,25180
+Säkylä,20-24,Opintoraha,Yliopistot,40,25648
+Säkylä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,40,28168
+Säkylä,20-24,Yhteensä,Yliopistot,70,31607
+Taipalsaari,20-24,Yhteensä,Yliopistot,44,15346
+Taivalkoski,20-24,Opintoraha,Yliopistot,72,39113
+Taivalkoski,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,72,43313
+Taivalkoski,20-24,Yhteensä,Yliopistot,120,57422
+Tampere,20-24,Asumislisä,Yliopistot,2932,1120469
+Tampere,20-24,Opintoraha,Yliopistot,113108,61314160
+Tampere,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,113108,62434629
+Tampere,20-24,Yhteensä,Yliopistot,117055,62434629
+Tervo,20-24,Yhteensä,Yliopistot,16,2598
+Tervola,20-24,Opintoraha,Yliopistot,16,5037
+Tervola,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,16,5037
+Tervola,20-24,Yhteensä,Yliopistot,16,5037
+Toholampi,20-24,Opintoraha,Yliopistot,78,40685
+Toholampi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,78,40685
+Toholampi,20-24,Yhteensä,Yliopistot,78,40685
+Tornio,20-24,Opintoraha,Yliopistot,179,92801
+Tornio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,179,97001
+Tornio,20-24,Yhteensä,Yliopistot,237,110176
+Tuntematon,20-24,Asumislisä,Yliopistot,549,175350
+Tuntematon,20-24,Opintoraha,Yliopistot,1081,458691
+Tuntematon,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,1081,634041
+Tuntematon,20-24,Yhteensä,Yliopistot,1349,634041
+Turku,20-24,Asumislisä,Yliopistot,2315,875242
+Turku,20-24,Opintoraha,Yliopistot,104019,56585051
+Turku,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,104019,57460293
+Turku,20-24,Yhteensä,Yliopistot,107280,57460293
+Tuusula,20-24,Asumislisä,Yliopistot,64,27720
+Tuusula,20-24,Opintoraha,Yliopistot,644,287922
+Tuusula,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,644,322782
+Tuusula,20-24,Yhteensä,Yliopistot,826,325668
+Tyrnävä,20-24,Opintoraha,Yliopistot,20,24021
+Tyrnävä,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,20,25701
+Tyrnävä,20-24,Yhteensä,Yliopistot,88,31474
+Ulvila,20-24,Opintoraha,Yliopistot,114,54862
+Ulvila,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,114,61582
+Ulvila,20-24,Yhteensä,Yliopistot,148,63158
+Uusikaarlepyy,20-24,Asumislisä,Yliopistot,10,7560
+Uusikaarlepyy,20-24,Opintoraha,Yliopistot,468,264166
+Uusikaarlepyy,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,468,280126
+Uusikaarlepyy,20-24,Yhteensä,Yliopistot,500,280126
+Uusikaupunki,20-24,Opintoraha,Yliopistot,104,48972
+Uusikaupunki,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,104,50652
+Uusikaupunki,20-24,Yhteensä,Yliopistot,206,67481
+Vaasa,20-24,Asumislisä,Yliopistot,888,350910
+Vaasa,20-24,Opintoraha,Yliopistot,32084,17673780
+Vaasa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,32084,18027630
+Vaasa,20-24,Yhteensä,Yliopistot,33100,18027630
+Valkeakoski,20-24,Opintoraha,Yliopistot,224,107842
+Valkeakoski,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,224,119933
+Valkeakoski,20-24,Yhteensä,Yliopistot,252,119933
+Vantaa,20-24,Asumislisä,Yliopistot,396,140700
+Vantaa,20-24,Opintoraha,Yliopistot,10335,4810848
+Vantaa,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,10335,4953648
+Vantaa,20-24,Yhteensä,Yliopistot,11388,4953648
+Varkaus,20-24,Opintoraha,Yliopistot,122,54325
+Varkaus,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,122,56845
+Varkaus,20-24,Yhteensä,Yliopistot,142,56845
+Vesanto,20-24,Opintoraha,Yliopistot,102,60346
+Vesanto,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,102,60346
+Vesanto,20-24,Yhteensä,Yliopistot,108,60346
+Vesilahti,20-24,Opintoraha,Yliopistot,92,49556
+Vesilahti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,92,49556
+Vesilahti,20-24,Yhteensä,Yliopistot,146,52777
+Vihti,20-24,Opintoraha,Yliopistot,308,104524
+Vihti,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,308,111244
+Vihti,20-24,Yhteensä,Yliopistot,380,111244
+Virrat,20-24,Opintoraha,Yliopistot,78,42466
+Virrat,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,78,42466
+Virrat,20-24,Yhteensä,Yliopistot,78,42466
+Vöyri,20-24,Opintoraha,Yliopistot,216,119167
+Vöyri,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,216,120007
+Vöyri,20-24,Yhteensä,Yliopistot,224,120007
+Ylitornio,20-24,Opintoraha,Yliopistot,86,51406
+Ylitornio,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,86,51406
+Ylitornio,20-24,Yhteensä,Yliopistot,86,51406
+Ylivieska,20-24,Opintoraha,Yliopistot,106,42802
+Ylivieska,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,106,54142
+Ylivieska,20-24,Yhteensä,Yliopistot,132,55818
+Ylöjärvi,20-24,Opintoraha,Yliopistot,420,169058
+Ylöjärvi,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,420,180818
+Ylöjärvi,20-24,Yhteensä,Yliopistot,550,182299
+Äänekoski,20-24,Opintoraha,Yliopistot,260,153822
+Äänekoski,20-24,Opintoraha ja asumislisä yhteensä,Yliopistot,260,154242
+Äänekoski,20-24,Yhteensä,Yliopistot,312,154242
